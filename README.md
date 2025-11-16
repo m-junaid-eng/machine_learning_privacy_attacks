@@ -54,7 +54,7 @@ A presentation summarizing the project, including experimental findings and reco
   <li>TensorFlow or PyTorch</li>
   <li>Scikit-learn</li>
   <li>NumPy, Pandas</li>
-  <li>Jupyter Notebook</li>
+  <li>VS Code</li>
 </ul>
 
 <h2>Experimental Work</h2>
